@@ -2,7 +2,7 @@
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 Rhizomatiq propose une immersion interactive axée sur la temporalité, transformant l'urgence quotidienne en une exploration introspective. Ce projet se sert d'une toile comme outil de navigation à travers un dédale de souvenirs, projetant de manière immersive des échappées hors de notre temporalité mesurée. L'œuvre se divise en deux aspects : la toile, effleurée pour raviver des souvenirs, et les projections qui les matérialisent. L'ampleur de l'interaction influence la netteté des souvenirs évoqués, tandis que la toile agit comme une fenêtre sur une introspection poussée, dépeignant le courant de conscience à travers des images rhizomatiques et invitant à un moment de pause dans le temps.
 
-![alt tag](url de ton image)
+![alt tag](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/CRESCENTIA/media/Photo%20expo%203eme%20anne%CC%81e/20240220_134146.heic#:~:text=20240220_134146.-,heic,-20240220_134743.heic)
 
 ## Effet papillon, Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
