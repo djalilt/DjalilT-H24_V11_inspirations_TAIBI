@@ -16,7 +16,8 @@ Cette œuvre immersive et interactive invite les participants à se plonger dans
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 Un jeu vidéo interactif qui transporte le joueur dans un univers stylisé par une esthétique néon rétro, où il doit éviter divers obstacles. Le décor du jeu change pour illustrer les quatre saisons, créant une expérience captivante qui fusionne design rétro et variations saisonnières.
 
-IMAGES
+![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/assets/143510866/145a7c65-3f5b-48b2-9466-c14eb428c017)
+
 
 ## Sonalux, Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
