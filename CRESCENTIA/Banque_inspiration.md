@@ -30,6 +30,9 @@ Sonalux est une expérience artistique qui transcende la réalité, plongeant le
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 Au sein d'un laboratoire, une table interactive connectée à un écran simule un système solaire. Les visiteurs placent des statues sur la table, activant divers événements au sein de la simulation. Cette installation invite à l'expérimentation en attendant le retour des scientifiques à la charge.
 
+![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/assets/143510866/c6bf7a3f-92b9-4877-9f64-bd37550dce11)
+
+
 Les trois cours qui serait utile pour crée ces projet serais le cour de programation pour coder les personnage par exemple pour les arriere plans etc... 
 je pense que les cour de photoshop serait aussi tres utile pour crée le designe des personnage et des structure/arriere plans.
 Le cour d'audio serait tres utile aussi pour plusieur projet a réaliser les differente façons d'ameliorer le projet car l'audio est tres important car il rajoute un effet sur les projets.
