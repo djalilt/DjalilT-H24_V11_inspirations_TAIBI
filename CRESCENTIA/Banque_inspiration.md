@@ -9,7 +9,8 @@ Rhizomatiq propose une immersion interactive axée sur la temporalité, transfor
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 Cette œuvre immersive et interactive invite les participants à se plonger dans le cycle de vie d'un pommier, en soulignant le principe de l'effet papillon au moyen de dispositifs électroniques. Les visiteurs entament un voyage sensoriel et instructif, suivant la graine jusqu'à sa transformation en pomme, et découvrent l'importance de l'effet papillon. Le point culminant de cette aventure est la maturation du fruit, dévoilant l'influence des actions des visiteurs sur le résultat final. La pomme, élément central de l'installation, représente les conséquences considérables de choix apparemment mineurs au sein d'un système complexe.
 
-IMAGES
+![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/assets/143510866/14f59965-1fbb-4eec-b4e1-f7a3f69adf4f)
+
 
 ## KIGO, Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
