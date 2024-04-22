@@ -25,3 +25,13 @@ IMAGES
 ## Canevas cosmique, Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 Au sein d'un laboratoire, une table interactive connectée à un écran simule un système solaire. Les visiteurs placent des statues sur la table, activant divers événements au sein de la simulation. Cette installation invite à l'expérimentation en attendant le retour des scientifiques à la charge.
+
+Les trois cours qui serait utile pour crée ces projet serais le cour de programation pour coder les personnage par exemple pour les arriere plans etc... 
+je pense que les cour de photoshop serait aussi tres utile pour crée le designe des personnage et des structure/arriere plans.
+Le cour d'audio serait tres utile aussi pour plusieur projet a réaliser les differente façons d'ameliorer le projet car l'audio est tres important car il rajoute un effet sur les projets.
+
+une technique que je ne connaisser pas du tout etait d'utiliser une kinect et du tissus comme un ecrant t'actile qui envoie des image et video sur un mur grace a un projecteur 
+
+la Kinect est une technologie ou l'on utilise de la video 3d zvec de la technologie de lasert pour detecter la distance des des gens et de tout objet qui n'est pas trop loin. et grace a la pression mise sur le tissu tle lasert que lon ne voit pas calcule la distance pui etant donné que la distsnce diminue cela va fair en sorte d'envoyer de l'information.
+
+avant la presentation finale du projet je dirait que mon top 3 des projet serait canevas cosmique car je trouve que leur projet avant la version final assez bien et qui mqarche relativement bien je dirait que la deuxieme exposition que je choisirait serait l'effet-papillon que je trouve tres interesant et surtout avec le systeme de rasbery pie 3 qu'ils on utiliser. et pour le troisieme risomatique ma becoup plus le concepte est tres anodin et tres inventif donc je dirait que cela serait mon top 3 
