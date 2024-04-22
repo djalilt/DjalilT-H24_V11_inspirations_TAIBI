@@ -23,7 +23,8 @@ Un jeu vidéo interactif qui transporte le joueur dans un univers stylisé par u
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 Sonalux est une expérience artistique qui transcende la réalité, plongeant les participants dans un monde d'art génératif où le concept de temps est redéfini. Cette boucle temporelle ouvre la voie à un voyage astral collectif, avec les participants interagissant avec une gamme d'instruments sur un podium pour manipuler leur environnement.
 
-IMAGES
+![IMG_6912](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/assets/143510866/e149350a-7b7f-48d4-b984-32bb1684259f)
+
 
 ## Canevas cosmique, Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
