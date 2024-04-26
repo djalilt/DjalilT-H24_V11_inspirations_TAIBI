@@ -12,14 +12,7 @@ Raymond Moriyama le createur du centres des sciences de montreal crée en 2000. 
 
 ![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Centre%20des%20science/20240405_153045.jpg?raw=true)
 
-
-
-
-
-
-
-
-
-
+l'éspace etait assez grand une tres grande salle avec plusieur instalation numerique de differente de differente éxposition dont celle des camera que j'ai choisis
 ![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Centre%20des%20science/20240405_153038.jpg?raw=true)
 
+les composante technique de l'oeuvre son principalement des camera specifique une camera thermique une camera UV avec une lumiere uv au dessus de l'écrant et une camera normale de plus il y a des grands écrants qui projete se que les cameras regardes dans les different angles de vue e
