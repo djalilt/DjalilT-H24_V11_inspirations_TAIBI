@@ -25,7 +25,7 @@ je pense que l'éxposition mulitmedia qui ma le plus plue etait deux grande parb
 
 par contre il y a une chose que j'airais vraiment preferé et cela etait le fait que il n'y avait a mon avis pas assez d'éxposition j'aurais bien aimer que le chemin sois plus long avec d'autres exposition a d'écouvrire.
 
-![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Centre%20des%20science/MicrosoftTeams-image%20(1).png?raw=true)
+![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Centre%20des%20science/MicrosoftTeams-image.png?raw=true)
 
 ![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Centre%20des%20science/MicrosoftTeams-image%20(4).png?raw=true)
 
