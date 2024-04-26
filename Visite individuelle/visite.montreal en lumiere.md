@@ -20,3 +20,4 @@ la mise en esspace a etait faite assez bien je trouve car l'esspace et assez bie
 ![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Visite%20individuelle/mtl-en-lumi-re.jpg?raw=true)
 noovo info https://www.noovo.info/nouvelle/cest-le-retour-de-la-24e-edition-de-montreal-en-lumiere-au-quartier-des-spectacles.html
 
+il faut absolument pour la mise en exposition de des lumiere des differentes couleurs de differentes tailles pour crée plusieur type d'infrastructure il faut aussi beacoup de cables et une grandes capacité électrique pour pouvoir soutenire cette quantité d'électricité. 
