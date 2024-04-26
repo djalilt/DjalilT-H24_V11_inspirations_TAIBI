@@ -28,3 +28,5 @@ J'ai beaucoup aimer ma sortie individuel car l'embiance etat très simpatique av
 se qui ma beaucoup plus durant cette sortit est vraiment l'embiance qu'il y avait et qui etait mise par le DJ car je trouve que la musique nous permeter d'être enmener dans un état assez rexale car justement l'embiance qui etait crée grace la musique nous permetait d'être dans cette état present.
 
 un élement que j'ai trouvé a améliorer aurait etait la lumiere car c'est un évenement de lumiere j'aurais bien aimer qu'il y ait plus d'infrastucture de lumiere plus quantité de luminaissance et sur une plus grande distance car en marchant nous arivions a la fin du circuit en l'éspace de seulement trente minutes ma vision des chose etait un trajet plus long ou bien mêmê plusieur trajet de de differente longueur. 
+
+![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Visite%20individuelle/20240301_225256.jpg?raw=true)
