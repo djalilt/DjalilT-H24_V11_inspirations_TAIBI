@@ -15,4 +15,6 @@ Raymond Moriyama le createur du centres des sciences de montreal crée en 2000. 
 l'éspace etait assez grand une tres grande salle avec plusieur instalation numerique de differente de differente éxposition dont celle des camera que j'ai choisis
 ![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Centre%20des%20science/20240405_153038.jpg?raw=true)
 
-les composante technique de l'oeuvre son principalement des camera specifique une camera thermique aussi appelé infrade radiation avec son acronyme IR une camera UV avec une lumiere uv au dessus de l'écrant et une camera normale de plus il y a des grands écrants qui projete se que les cameras regardes dans les different angles de vue e
+les composante technique de l'oeuvre son principalement des camera specifique une camera thermique aussi appelé infrade radiation avec son acronyme IR une camera UV avec une lumiere uv au dessus de l'écrant et une camera normale de plus il y a des grands écrants qui projete se que les cameras regardes dans les different angles de vue pour une bonne mise en éxposition il faut de grandes boite pour contenir l'écrant par la suite un espace pour pouvoir deposer ou fixer les camera et les lumiere s'il y a lieux d'être. 
+
+
