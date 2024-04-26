@@ -7,4 +7,6 @@ nous somme aller le 5 avril
 
 # Centre des sciences de Montreal
 
-Raymond Moriyama le createur du centres des sciences de montreal crée en 2000. il y a une éxposition qui ma particulierement plue c'est celle avec les differentes cameras qui montre differentes chose il y en a trois une qui est pour l'imagerie thermique une qui est en noir est blanc et la derniere qui est en  
+Raymond Moriyama le createur du centres des sciences de montreal crée en 2000. il y a une éxposition qui ma particulierement plue c'est celle avec les differentes cameras qui montre differentes chose il y en a trois une qui est pour l'imagerie thermique une qui est en noir est blanc grace a la lumiere ultra violet et la derniere qui est normale donc comme une cammera de telephone vois.
+
+
