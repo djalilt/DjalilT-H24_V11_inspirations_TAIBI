@@ -18,3 +18,5 @@ https://www.montrealenlumiere.com/Programmation/Experience?volet=nuit
 la mise en esspace a etait faite assez bien je trouve car l'esspace et assez bien repartit et il y a beacoup de structure qui pourait rendre le deplacement dificile mais cela n'est pas le cas 
 
 ![image](https://github.com/djalilt/DjalilT-H24_V11_inspirations_TAIBI/blob/main/Visite%20individuelle/mtl-en-lumi-re.jpg?raw=true)
+noovo info https://www.noovo.info/nouvelle/cest-le-retour-de-la-24e-edition-de-montreal-en-lumiere-au-quartier-des-spectacles.html
+
